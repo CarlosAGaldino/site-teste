@@ -1,0 +1,16 @@
+.formulario {
+    background-color: #2555556e;
+    color: black;
+    border-radius: 10px;
+    box-shadow: 8px 8px 8px rgba(0, 0, 0, 16);
+    
+}
+.formulario__campo {
+    padding: 10px;
+}
+.formulario__botao{
+    margin: 10px 10px;
+    padding: 10px;
+    background-color: #255555;
+    border-radius: 10px;
+}

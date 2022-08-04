@@ -1,0 +1,37 @@
+.contato {
+    background-color: #2555556e;
+    color: black;
+    border-radius: 10px;
+    box-shadow: 8px 8px 8px rgba(0, 0, 0, 16);
+}
+.endereco_conteudo {
+    padding: 10px;
+}
+.endereco-email {
+    font-size: 20px;
+    padding: 5px;
+}
+.endereco-telefone {
+    font-size: 20px;
+    padding: 5px;
+}
+.endereco-local {
+    font-size: 20px;
+    padding: 5px;
+}
+.mapa_titulo {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 24px;
+}
+.contato_mapa {
+    width: 100%;
+    border-radius: 15px 15px 0 15px;
+    overflow: hidden;
+    background-color: #255555;
+}
+
+.mapa {
+    height: 20vh;
+    width: 90vw;
+}
